@@ -1,0 +1,2 @@
+# mysolution
+find palindromes
